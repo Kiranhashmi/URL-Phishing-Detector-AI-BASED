@@ -2,7 +2,7 @@
 
 This dataset is used for training and testing phishing detection models. It contains a collection of URLs labeled as either phishing or safe.
 
-### 📄 Contents
+###  Contents
 
 A CSV file with two columns:
 
@@ -14,11 +14,11 @@ label: Classification of the URL.
 
 0 → Safe (Benign)
 
-### 📊 Summary
+###  Summary
 
 Total entries: 549347
 
-### 🛡️ Usage
+###  Usage
 
 This dataset can be used for:
 
